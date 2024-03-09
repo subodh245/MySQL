@@ -16,6 +16,16 @@ THINGS I LEARN
 14) I have join multiple table in data base
 15) COMPOUND JOIN CONDITIONS It is used for uniquely identifying the colmn when there are simmilar id's in the colmn
 16) OUTER JOIN It is used for combaining rows from another table ether it can be done from right or left
+17) OUTER JOIN BETWEEN MULTIPLE TABLE it is use to get data from multiple table at a time
+18) USING CLAUSE It can be used instead of ON clause
+19) NATURAL JOIN it joins the table based on the common column
+20) CROSS JOINS this is used for combaining data in database
+21) UNION this is used for comvaing rows form the table
+22) INSERTED A ROW AND MULTIPLE ROW IN DATABASE which contain first name , lastname , birth , address , city , state
+23) INSERTED HIRARCHICAL ROWS It is used for inserting data in multiple table at a time
+24) learned to CREATED THE COPY OF TABLE using the CREATE TABLE command
+25) I learn to update a row and update multiple row in workbench
+26) I leran to delete the rows and file using code in work
 
 
 ![Screenshot 2024-03-08 172403](https://github.com/subodh245/MySQL/assets/118099441/b6f3f56a-7cc3-40bf-87a1-37b72357771a)
@@ -25,3 +35,11 @@ THINGS I LEARN
 ![Screenshot 2024-03-06 153209](https://github.com/subodh245/MySQL/assets/118099441/ac5df858-92da-4bbf-abfe-cbc5301eed85)
 
    
+
+
+
+
+
+
+
+
