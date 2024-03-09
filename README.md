@@ -27,7 +27,10 @@ THINGS I LEARN
 25) I learn to update a row and update multiple row in workbench
 26) I leran to delete the rows and file using code in work
 
-
+![Screenshot 2024-03-09 060844](https://github.com/subodh245/MySQL/assets/118099441/cdf91c0c-fcb6-4679-94d3-e9b65e704379)
+![Screenshot 2024-03-09 062803](https://github.com/subodh245/MySQL/assets/118099441/496354f1-b386-4a99-a6bf-54f9e61b7e97)
+![Screenshot 2024-03-09 150801](https://github.com/subodh245/MySQL/assets/118099441/5f31f988-8709-4c19-96ac-9eb729f6dac7)
+![Screenshot 2024-03-09 181028](https://github.com/subodh245/MySQL/assets/118099441/7cc50672-4ba0-4e88-8fc2-6901918280b4)
 ![Screenshot 2024-03-08 172403](https://github.com/subodh245/MySQL/assets/118099441/b6f3f56a-7cc3-40bf-87a1-37b72357771a)
 ![Screenshot 2024-03-08 152716](https://github.com/subodh245/MySQL/assets/118099441/a767100e-1ff8-4e61-8d2b-8576a3dbc567)
 ![Screenshot 2024-03-06 161657](https://github.com/subodh245/MySQL/assets/118099441/e9e33e57-9fee-4996-bdd8-54c4c060d4d6)
